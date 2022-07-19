@@ -2,12 +2,21 @@ project:
   type: website
 
 website:
-  title: "vas_web"
+#  title: "Cyberpsychology Research Group"
   navbar:
-    left:
+    background: white
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: ourTeam.qmd
+        text: Our team
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: skills.qmd
+        text: Skills & Interests
+
 
 format:
   html:
