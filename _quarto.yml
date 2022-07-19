@@ -16,6 +16,8 @@ website:
         text: Publications
       - href: skills.qmd
         text: Skills & Interests
+      - href: blog/index.qmd
+        text: Blog
 
 
 format:

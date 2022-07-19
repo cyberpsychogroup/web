@@ -1,0 +1,17 @@
+---
+title: "Projects"
+format: html
+editor: visual
+---
+
+## **DECRA**
+
+**Gamers and Avatars: What the connection between video-gamers and their in-game avatars can teach us about their physical activity and mental health in the real world?**
+
+Many children and adults play video games for enjoyment. For those people who play too much, this may lead to difficulties at school and in their lives. Despite these negative effects of "over-gaming", people who play too much have been shown to not talk about their problems and/or ask for help, worsening the negative consequences of over-gaming. Studies suggest that the choices a person makes about their game figure, called an avatar, can show how they feel, their exercise habits and the ways they communicate with their family. It may also indicate, how they use their mobile phones, social media, and in general, how they are in their lives. 
+
+This study aims to investigate the different profiles of people who play games, based on how they connect with their avatar. It also aims to understand whether, who the player is outside the game, and how they experience gaming, may relate to such profiles. Lastly, it aspires to understand if/how user-avatar connection profiles can inform us about one's mental health and physical activity outside the game. 
+
+To achieve these aims, over 500 adolescent and young adult students (12-29 years old) will be recruited to the study. Over a week (7 days), participants will be asked to answer questionnaires (online), wear a Fitbit watch, that has the capabilities to collect information about their physical activity levels and install a special application on their mobile phone to monitor phone use (time on the phone). Every 6 months, over 18 months (4 times in total), these procedures will be repeated.
+
+The data collected in the current study will add vital information about how players interact with their avatar and reveal what the avatar used can tell us about the player in real life. These may assist to develop strategies that will help people continue enjoying and benefiting from gaming while reducing the dangers of over-gaming.\
