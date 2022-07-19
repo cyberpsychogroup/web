@@ -1,0 +1,48 @@
+---
+title: "Publications per area of interest"
+format: html
+editor: visual
+---
+
+## **Avatar**
+
+Editorial: User-Avatar Bond: Risk and opportunities in gaming and beyond [Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.923146/full)
+
+The physical, emotional, and identity user-avatar association with disordered gaming: a pilot study [Link](https://link.springer.com/article/10.1007/s11469-019-00136-8)\
+
+Internet gaming disorder: compensating as a Draenei in World of Wordcraft [Link](https://link.springer.com/article/10.1007/s11469-019-00098-x) 
+
+## **Behavioral / technology addictions**
+
+Disordered gaming: the role of a gamer\'s distress profile [Link](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fcbs0000335)\
+
+Unravelling the web of addictions: a network analysis approach [Link](https://www.sciencedirect.com/science/article/pii/S2352853222000013?via%3Dihub)
+
+Risks and opportunities for youth in the digital era: a cyber-developmental approach to mental health [Link](https://econtent.hogrefe.com/doi/10.1027/1016-9040/a000451) \
+[Link](https://link.springer.com/article/10.1007/s11469-022-00833-x)
+
+Internet gaming disorder profiles and their associations with social engagement behaviors [Link](https://www.sciencedirect.com/science/article/abs/pii/S0022395621002648?via%3Dihub)
+
+Problematic internet use: the effect of comorbid psychopathology on treatment outcomes [Link](https://www.sciencedirect.com/science/article/abs/pii/S016517812100086X?via%3Dihub)
+
+## **Cyberphenotype**
+
+Exploring the digital footprints of depression: a PRISMA systematic literature review of the empirical evidence [Link](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04013-y)
+
+## **Psychometrics**
+
+Problematic shopping behavior: an item response theory examination of the Seven-Item Bergen shopping addiction scale [Link](https://link.springer.com/article/10.1007/s11469-022-00844-8)
+
+Using online gambling disorder questionnaire (OGD-Q) with adults: factor structure, reliability, external validity, and measurement invariance across age and gender [Link](https://link.springer.com/article/10.1007/s11469-022-00833-x)
+
+Factor structure of the symptoms of alcohol use, gaming and gambling addictions [Link](https://link.springer.com/article/10.1007/s11469-022-00795-0)
+
+Test-Retest measurement invariance of the nine-item internet gaming disorder scale in two countries: a preliminary longitudinal study [Link](https://link.springer.com/article/10.1007/s11469-019-00099-w)
+
+## **Data science**
+
+Problematic internet use: the effect of comorbid psychopathology on treatment outcomes [Link](https://www.sciencedirect.com/science/article/abs/pii/S016517812100086X?via%3Dihub)
+
+## **Comprehensive list of our work**
+
+[Repository](https://vuir.vu.edu.au/cgi/facet/simple2?q=Vasileios+Stavropoulos&_action_search=Search)
