@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+#  title: "Cyberpsychology Research Group"
+  navbar:
+    background: white
+    right:
+      - href: index.qmd
+        text: Home
+      - href: ourTeam.qmd
+        text: Our team
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: skills.qmd
+        text: Skills & Interests
+      - href: blog/index.qmd
+        text: Blog
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
